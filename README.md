@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oumaima Laghjibi</h1>
-<h3 align="center">Software Engineer | Building Scalable Java Full Stack Solutions with DevOps, Cloud & AI</h3>
+<h3 align="center">Software Engineer | Building Scalable Full Stack Solutions with DevOps, Cloud & AI</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
